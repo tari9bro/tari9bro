@@ -1,18 +1,9 @@
-#👋  
+![Bara Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tari9bro&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=00000000)
 
-<p align="center">
-    <a href="#">
-         <img src="https://github-readme-stats.vercel.app/api?username=tari9bro&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" height="300" >
-    </a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tari9bro&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/java-ffe66d.svg?&style=for-the-badge&logo=java&logoColor=darkred"></a>
-    <a href="#"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/swift%20-%23E34F26.svg?&style=for-the-badge&logo=swift#&ogoColor=darkred"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/shell_script-233d4d.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tari9bro&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tari9bro&theme=github-dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tari9bro&color=blue&style=flat)
