@@ -2,7 +2,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tari9bro&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tari9bro&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tari9bro&theme=dark)](https://git.io/streak-stats)
 
 ---
 
