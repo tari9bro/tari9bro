@@ -1,6 +1,6 @@
 # Hi there, I'm Bara Tariq! 👋
 
-🚀 **Multiplatform Developer | Affiliate Marketer | YouTuber**
+🚀 **Multiplatform Developer | Affiliate Marketer **
 
 I'm passionate about **development, marketing, and content creation**. I specialize in building **multiplatform systems**, including **mobile apps, desktop apps, web apps, and databases**. I also create content on **YouTube and social media** while working in **affiliate marketing**. 
 
