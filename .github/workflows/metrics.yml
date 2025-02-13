@@ -11,7 +11,6 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
           config_timezone: "Africa/Algiers"
 
           # 🎨 Dark Theme
@@ -19,44 +18,32 @@ jobs:
           config_palette: github-dark
           config_display: columns
 
-          # 🏆 Achievements (Creative!)
+          # 🏆 Achievements (Trophies)
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
+          plugin_achievements_limit: 6
 
-          # 🔥 Streak & Contributions Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          # 🌟 Stars, Most Used Languages & Contributions
+          # 🌟 Stars & Contributions
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_contributors: yes
           plugin_contributors_head: master
           plugin_contributors_contributions: yes
-          plugin_followup: yes
           plugin_reactions: yes
           plugin_reactions_limit: 200
 
-          # 🖥️ Most Used Languages (with Icons!)
+          # 🖥️ Most Used Languages (Dark Mode + Icons!)
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           plugin_languages_ignored: "github-readme-stats,tari9bro.github.io"
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: programming
           plugin_languages_details: percentage, bytes-size, lines, icons
           plugin_languages_limit: 8
           
-          # 🛠️ Frameworks & Technologies (with Icons!)
+          # 🛠️ Frameworks & Technologies (with Icons + Dark Theme)
           plugin_technology: yes
           plugin_technology_format: list
-          plugin_technology_categories: programming, frameworks
+          plugin_technology_categories: programming, frameworks, tools
           plugin_technology_theme: dark
           plugin_technology_icons: yes
-          
-          # 📊 Coding Habits (Hourly Activity Graph)
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 7
-          plugin_habits_facts: yes
