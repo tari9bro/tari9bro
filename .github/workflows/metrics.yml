@@ -13,6 +13,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: "Africa/Algiers"
 
+       # 🌟 Most Used Languages (With Icons)
+          name: Icons
+       uses: lowlighter/metrics@latest
+       with:
+       filename: metrics.plugin.topics.icons.svg
+       token: NOT_NEEDED
+       base: ""
+       plugin_topics: yes
+       plugin_topics_limit: 0
+       plugin_topics_mode: icons
+
+
           # 🎨 Dark Theme
           config_output: svg
           config_palette: github-dark
@@ -24,13 +36,30 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 6
 
-          # 🌟 Most Used Languages (With Icons)
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_sections: most-used
-          plugin_languages_ignored: "github-readme-stats,tari9bro.github.io"
-          plugin_languages_details: percentage, bytes-size, lines, icons
-          plugin_languages_limit: 10
+          name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
+
+  # 🛠️
+ name: LeetCode
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.leetcode.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_leetcode: yes
+  plugin_leetcode_sections: solved, skills, recent
+
+          
 
           # 🛠️ Technologies & Frameworks (With Icons)
           plugin_technology: yes
