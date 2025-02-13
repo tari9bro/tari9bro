@@ -17,6 +17,7 @@ jobs:
           config_output: svg
           config_palette: github-dark
           config_display: columns
+          config_width: 1200  # ⬅️ Makes the image wider
 
           # 🌟 Most Used Languages (With Icons)
           plugin_languages: yes
