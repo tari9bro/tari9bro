@@ -45,12 +45,18 @@ jobs:
           plugin_languages_ignored: "github-readme-stats,tari9bro.github.io"
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: programming
-
-          # 💡 Show Used Tech & Frameworks (Dark Mode)
+          plugin_languages_details: percentage, bytes-size, lines, icons
+          plugin_languages_limit: 8
+          
+          # 🛠️ Frameworks & Technologies (with Icons!)
           plugin_technology: yes
           plugin_technology_format: list
           plugin_technology_categories: programming, frameworks
           plugin_technology_theme: dark
-
-          # ⚡ Compact Header
-          plugin_notable: yes
+          plugin_technology_icons: yes
+          
+          # 📊 Coding Habits (Hourly Activity Graph)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 7
+          plugin_habits_facts: yes
