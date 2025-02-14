@@ -4,9 +4,6 @@
 
 ### 🚀 Languages & Tools:
 
-### 🚀 Languages & Tools:
-
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java ME](https://img.shields.io/badge/Java%20ME-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
