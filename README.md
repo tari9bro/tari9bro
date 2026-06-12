@@ -1,4 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tari9bro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&hide_border=true&disable_animations=false&custom_title=Tari9bro's%20GitHub%20Stats" width="100%">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tari9bro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tari9bro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
 
 
 
